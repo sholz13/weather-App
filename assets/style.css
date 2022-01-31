@@ -20,7 +20,7 @@ body {
     margin: 1em;
   }
   
-  .search-bar {
+  .search {
     display: flex;
     align-items: center;
     justify-content: center;
